@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+  overflow: hidden;
+}
+header h1 {
+  position: absolute;
+  font-size: 18px;
+  top: 30px;
+  left: 105px;
+  z-index: 1;
+}
+
+.container {
+  width: 436px;
+  height: 545px;
+
+  background-color: #f6f6f9;
+}
+.recipiente {
+  position: relative;
+  left: 50px;
+  top: 90px;
+  display: flex;
+  height: 222px;
+}
+
+#selector {
+  position: relative;
+  transform: rotate(180deg);
+  width: 7%;
+  right: 18px;
+  bottom: 66px;
+}
+
+#globo {
+  position: relative;
+  left: 17px;
+}
+
+.grafica {
+  position: relative;
+  top: 77px;
+  width: 50%;
+  left: 43px;
+}
+.botones {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  left: 296px;
+  top: 34px;
+  z-index: 1;
+  gap: 23px;
+}
+
+.boton {
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+}

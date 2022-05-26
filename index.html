@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <title>U4_114</title>
+    <script src="./js/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <header><h1>Avogadro's Principle</h1></header>
+      <div class="recipiente">
+        <div class="botones">
+          <div id="btn0" class="boton b_Uno"></div>
+          <div id="btn1" class="boton b_Dos"></div>
+          <div id="btn2" class="boton b_Tres"></div>
+          <div id="btn3" class="boton b_Cuatro"></div>
+        </div>
+        <img src="./img/burbuja10L.svg" id="globo" />
+        <img src="./img/Cilindro.svg" id="aparatos" />
+        <img src="./img/Cursor.svg" id="selector" />
+      </div>
+      <div class="grafica">
+        <img src="./img/GraficaENG_P1.svg" id="grafica" />
+      </div>
+    </div>
+  </body>
+</html>
+
+<script>
+  var globos = [
+    "./img/burbuja10L.svg",
+    "./img/burbuja20L.svg",
+    "./img/burbuja30L.svg",
+    "./img/burbuja40L.svg",
+  ];
+
+  var graficas = [
+    "./img/GraficaENG_P1.svg",
+    "./img/GraficaENG_P2.svg",
+    "./img/GraficaENG_P3.svg",
+    "./img/GraficaENG_P4.svg",
+  ];
+
+  var posPuntero = ["66", "16", "-33", "-85"];
+
+  $(document).ready(function () {
+    $("body").on("click", ".colores", function () {
+      $(".pantallaInfo").css("display", "inline");
+      $(".fondoInfo").css("display", "inline");
+      cambiarTextos(this.id);
+    });
+
+    $("body").on("click", ".boton", function () {
+      selectImage(this.id);
+    });
+
+    function selectImage(valor) {
+      valor = valor.substring(3);
+      $("#globo").attr("src", globos[valor]);
+      $("#grafica").attr("src", graficas[valor]);
+      $("#selector").css("bottom", posPuntero[valor] + "px");
+    }
+  });
+</script>

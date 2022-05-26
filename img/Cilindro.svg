@@ -1,0 +1,54 @@
+<svg id="f4eab6b5-ac4e-4e73-9919-d40a700ce285" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 180.204 307.095">
+  <defs>
+    <style>
+      .b11b15d8-643b-4fb1-bd39-29d22d9f7750 {
+        fill: url(#ec693067-b9ea-45a0-8597-e89dfb901a8f);
+      }
+
+      .baecb4c7-685d-4463-922e-a3ee7885ec72 {
+        fill: url(#ff497156-c7e4-4847-aed3-f7472cf93230);
+      }
+
+      .b040bd9f-0074-40de-8c69-e3a8068eaec4 {
+        font-size: 23px;
+      }
+
+      .ad9be4ca-d107-40b4-8333-56e22a4e5831, .b040bd9f-0074-40de-8c69-e3a8068eaec4 {
+        font-family: NunitoSans-SemiBold, Nunito Sans;
+        font-weight: 600;
+      }
+
+      .ad9be4ca-d107-40b4-8333-56e22a4e5831 {
+        font-size: 28.936px;
+      }
+    </style>
+    <linearGradient id="ec693067-b9ea-45a0-8597-e89dfb901a8f" data-name="Degradado sin nombre 88" x1="-168.238" y1="155.635" x2="487.219" y2="164.738" gradientUnits="userSpaceOnUse">
+      <stop offset="0.007" stop-color="#2a64f9"/>
+      <stop offset="0.197" stop-color="#4879fd"/>
+      <stop offset="0.32" stop-color="#72a8fe"/>
+      <stop offset="0.45" stop-color="#7bbaff"/>
+      <stop offset="0.631" stop-color="#7695fd"/>
+      <stop offset="0.704" stop-color="#407fff"/>
+      <stop offset="0.711" stop-color="#5889ff"/>
+      <stop offset="0.719" stop-color="#6d93ff"/>
+      <stop offset="0.727" stop-color="#7a98ff"/>
+      <stop offset="0.735" stop-color="#7e9aff"/>
+      <stop offset="0.853" stop-color="#618ff9"/>
+    </linearGradient>
+    <linearGradient id="ff497156-c7e4-4847-aed3-f7472cf93230" data-name="Degradado sin nombre 91" x1="-216.841" y1="23.264" x2="659.131" y2="11.863" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5888ff"/>
+      <stop offset="0.283" stop-color="#7bb1ff"/>
+      <stop offset="0.347" stop-color="#82b6ff"/>
+      <stop offset="0.442" stop-color="#96c5ff"/>
+      <stop offset="0.495" stop-color="#a4d0ff"/>
+      <stop offset="0.733" stop-color="#6c9cff"/>
+      <stop offset="0.899" stop-color="#6a9aff"/>
+      <stop offset="0.959" stop-color="#6393ff"/>
+      <stop offset="1" stop-color="#5888ff"/>
+    </linearGradient>
+  </defs>
+  <path class="b11b15d8-643b-4fb1-bd39-29d22d9f7750" d="M0,13.572c0-.466.725-.92,2.065-1.358,8.791,2.872,44.858,5.024,88.037,5.024s79.246-2.152,88.037-5.024c1.34.438,2.065.892,2.065,1.358V278.711C180.116,317.275-.088,316.87,0,278.306Z" transform="translate(0 -0.337)"/>
+  <path class="baecb4c7-685d-4463-922e-a3ee7885ec72" d="M0,13.137c-.012,33.016,180.192,33.7,180.2.685C180.212-3.694.009-4.379,0,13.137Z" transform="translate(0 -0.337)"/>
+  <text class="b040bd9f-0074-40de-8c69-e3a8068eaec4" transform="translate(65.068 24.046)">MOL</text>
+  <text class="ad9be4ca-d107-40b4-8333-56e22a4e5831" transform="translate(133.105 71.371)">1<tspan x="0" y="69.447">2</tspan><tspan x="0" y="138.895">3</tspan><tspan x="0" y="208.342">4</tspan></text>
+</svg>

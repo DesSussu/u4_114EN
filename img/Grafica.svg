@@ -1,0 +1,95 @@
+<svg id="a81c6d43-c2e9-457c-8dcf-5791e8bf1f11" data-name="Capa 6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 259.906 226.14">
+  <defs>
+    <style>
+      .a27692ea-f0c1-4f70-a36c-03ab00074462, .b2d4a331-4507-4ebf-b5a2-c5572ed38c3d, .e997199b-e9b5-409f-9b1e-e977a4e5c976, .eecac0c0-1cf3-4305-9901-8bcb8b749fe1 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .b2d4a331-4507-4ebf-b5a2-c5572ed38c3d, .e997199b-e9b5-409f-9b1e-e977a4e5c976, .eecac0c0-1cf3-4305-9901-8bcb8b749fe1 {
+        stroke: #1d1d1b;
+      }
+
+      .b2d4a331-4507-4ebf-b5a2-c5572ed38c3d {
+        stroke-linecap: square;
+        stroke-width: 1.718px;
+      }
+
+      .b60d5c94-9808-4937-bfe5-455a17a1c129, .b70ec4d7-9b4d-4ae2-90e1-39325fe5aaee, .b9023d5a-c698-4dc5-9086-40e4917356e1, .e836ed4f-3814-4026-9dac-01db21a8f793 {
+        fill: #1d1d1b;
+      }
+
+      .b60d5c94-9808-4937-bfe5-455a17a1c129, .b70ec4d7-9b4d-4ae2-90e1-39325fe5aaee, .b9023d5a-c698-4dc5-9086-40e4917356e1 {
+        font-size: 9.527px;
+      }
+
+      .b70ec4d7-9b4d-4ae2-90e1-39325fe5aaee, .b9023d5a-c698-4dc5-9086-40e4917356e1 {
+        font-family: NunitoSans-Black, Nunito Sans;
+        font-weight: 800;
+      }
+
+      .e342972b-1e98-4584-8f88-37581f20c176 {
+        letter-spacing: -0.005em;
+      }
+
+      .b4b2aacb-1274-4338-a46f-294674a998bf {
+        letter-spacing: 0.055em;
+      }
+
+      .eecac0c0-1cf3-4305-9901-8bcb8b749fe1 {
+        stroke-width: 2.069px;
+      }
+
+      .b9023d5a-c698-4dc5-9086-40e4917356e1 {
+        letter-spacing: -0.067em;
+      }
+
+      .a45a84f5-b670-41cd-af25-81f936e58553 {
+        letter-spacing: 0em;
+      }
+
+      .e997199b-e9b5-409f-9b1e-e977a4e5c976 {
+        stroke-width: 2.099px;
+      }
+
+      .b60d5c94-9808-4937-bfe5-455a17a1c129 {
+        font-family: NunitoSans-Regular, Nunito Sans;
+      }
+
+      .a27692ea-f0c1-4f70-a36c-03ab00074462 {
+        stroke: #e30613;
+        stroke-width: 1.273px;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="b2d4a331-4507-4ebf-b5a2-c5572ed38c3d" x1="253.842" y1="199.761" x2="32.84" y2="199.761"/>
+    <polygon class="e836ed4f-3814-4026-9dac-01db21a8f793" points="259.906 199.761 251.361 196.269 253.388 199.761 251.361 203.252 259.906 199.761"/>
+  </g>
+  <text class="b70ec4d7-9b4d-4ae2-90e1-39325fe5aaee" transform="translate(72.683 223.377)">Quantitat de ma<tspan class="e342972b-1e98-4584-8f88-37581f20c176" x="75.506" y="0">t</tspan><tspan x="79.517" y="0">èria, n (mo</tspan><tspan class="b4b2aacb-1274-4338-a46f-294674a998bf" x="129.044" y="0">l</tspan><tspan x="132.884" y="0">)</tspan></text>
+  <g>
+    <line class="eecac0c0-1cf3-4305-9901-8bcb8b749fe1" x1="32.84" y1="199.761" x2="32.84" y2="7.303"/>
+    <polygon class="e836ed4f-3814-4026-9dac-01db21a8f793" points="32.84 0 37.045 10.291 32.84 7.849 28.636 10.291 32.84 0"/>
+  </g>
+  <text class="b9023d5a-c698-4dc5-9086-40e4917356e1" transform="translate(8.121 136.275) rotate(-90)">V<tspan class="a45a84f5-b670-41cd-af25-81f936e58553" x="6.431" y="0">olum, V (L)</tspan></text>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="32.639" y1="199.761" x2="29.831" y2="199.761"/>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(21.878 202.837)">0</text>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(30.333 212.362)">0</text>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="79.679" y1="199.963" x2="79.679" y2="202.771"/>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="126.518" y1="199.963" x2="126.518" y2="202.771"/>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="173.358" y1="199.963" x2="173.358" y2="202.771"/>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="220.196" y1="199.963" x2="220.196" y2="202.771"/>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(75.875 212.362)">1</text>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(123.496 212.362)">2</text>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(170.619 212.362)">3</text>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(217.565 212.362)">4</text>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="32.639" y1="159.026" x2="29.831" y2="159.026"/>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="32.639" y1="118.29" x2="29.831" y2="118.29"/>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="32.639" y1="77.554" x2="29.831" y2="77.554"/>
+  <line class="e997199b-e9b5-409f-9b1e-e977a4e5c976" x1="32.639" y1="36.818" x2="29.831" y2="36.818"/>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(16.162 162.126)">10</text>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(16.162 120.897)">20</text>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(16.162 80.383)">30</text>
+  <text class="b60d5c94-9808-4937-bfe5-455a17a1c129" transform="translate(16.162 39.691)">40</text>
+  <path class="a27692ea-f0c1-4f70-a36c-03ab00074462" d="M99.858,470.788" transform="translate(-68.624 -311.762)"/>
+</svg>
